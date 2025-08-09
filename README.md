@@ -20,8 +20,3 @@ This is not a cryptocurrency project. It is a proof-of-concept for a secure, dec
 This project was a successful collaboration between myself and my talented peer.
 - Syed Mustafa Imam
 - Hirdesh Kumar
-
-🤝 The Team
-This project was a successful collaboration between myself and my talented peer.
-[Syed Mustafa Imam](Link to his GitHub/LinkedIn)
-Hirdesh Kumar
